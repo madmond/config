@@ -1,5 +1,5 @@
 config:
-  info: test1
+  info: test
 spring:
   application:
     name: cloud-payment-service
