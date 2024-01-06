@@ -1,5 +1,5 @@
 config:
-  info: test
+  info: test1
 spring:
   application:
     name: cloud-payment-service
@@ -13,3 +13,4 @@ spring:
 
 mybatis:
   mapperLocations: classpath:mapper/*.xml
+  
